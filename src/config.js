@@ -1,5 +1,5 @@
 module.exports = {
   prefix: "/",
-  owner: "690639157013381220",
-  token: "Bot Tokeniniz"
+  owner: "410446790031048709",
+  token: "MTA2NjI0MDUzNzUyODYzMTMwNg.GAQave.Yh3sNQPZfRqi8zJi2YPOKKQ6IOyj3fasvsBUGM"
 }
